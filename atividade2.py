@@ -1,3 +1,4 @@
+#Digite um número e descubra se ele é positivo, negativo ou igual a zero
 num = float(input("Digite um número: "))
 
 if num > 0:
