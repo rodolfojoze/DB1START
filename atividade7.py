@@ -27,3 +27,5 @@ else:
 #   print("Número digitado inválido")
 
 print("O dia correspondente é: ", dia_da_semana)
+
+#Os comentários são referente ao fato de ter feito uma primeira opção;
